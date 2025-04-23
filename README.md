@@ -1,12 +1,81 @@
-# React + Vite
+# 🧠 CalmMind — Your Mental Healthcare AI Chatbot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CalmMind is an AI-powered chatbot designed to support mental well-being through guided conversations. It simulates a friendly, empathetic therapist and provides real-time responses to help users express emotions, manage anxiety, and reflect on their thoughts — all in a safe and private space.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- 🧘‍♂️ Friendly AI Therapist to chat with anytime  
+- 🔁 Suggested prompts to guide the conversation  
+- 🎙️ Voice input support for accessibility  
+- ✨ Smooth animations with Framer Motion  
+- 💬 Typing indicator for a more human-like experience  
+- 📱 Responsive and mobile-friendly design  
+- 🧠 Built for calm, comfort, and clarity
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧑‍💻 Tech Stack
+
+| Tech                | Description                               |
+|---------------------|-------------------------------------------|
+| **React**           | Frontend library for dynamic UI           |
+| **Tailwind**        | Utility-first CSS for fast styling        |
+| **Builder.io**      | Visual UI builder and CMS integration     |
+| **JavaScript**      | Logic and interaction control             |
+| **HTML & CSS**      | Markup and styling foundation             |
+| **Git & GitHub**    | Version control & collaboration           |
+| **Framer Motion**   | Animations and transitions                |
+| **React Speech Recognition** | Voice-to-text input                 |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/Abdulwahid7027/CalmMind-AI.git
+cd CalmMind-AI
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### Start the development server
+```bash
+npm run dev
+```
+
+<br/>
+<br/>
+
+🤖 **AI Behavior**
+**The AI is designed to:**
+
+ - Respond empathetically
+  
+ - Suggest calming topics or questions
+  
+ - Encourage users to talk openly
+  
+ - Maintain a non-judgmental tone
+  
+ - Ideal for those seeking basic emotional support or reflection.
+
+<br/>
+<br/>
+
+📸 **Preview** <br/>
+      Clean, conversational, and user-friendly interface.
+
+🧩 **Contributions**    <br/>
+      Want to improve CalmMind or suggest new features? PRs are welcome!    
+      Clone, branch, and submit your pull request.
+
+📜 **License** <br/>
+This project is licensed under the MIT License.
