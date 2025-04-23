@@ -1,0 +1,12 @@
+// jest.config.mjs
+export default {
+    testEnvironment: 'jest-environment-jsdom',
+    moduleFileExtensions: ['js', 'jsx', 'ts', 'tsx'],
+    transform: {
+      '^.+\\.(js|jsx|ts|tsx)$': 'babel-jest',
+    },
+    moduleNameMapper: {
+      '\\.(css|less|scss|sass|svg)$': 'identity-obj-proxy',
+    },
+  };
+  
