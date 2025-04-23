@@ -10,5 +10,8 @@ export default defineConfig({
   build: {
     outDir: "dist",
     sourcemap: true,
+    rollupOptions: {
+      external: ["react-router-dom"], // Externalizing react-router-dom
+    },
   },
 });
